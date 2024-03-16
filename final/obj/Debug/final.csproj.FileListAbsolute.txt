@@ -1,0 +1,10 @@
+D:\Y3\SM2\CS\final\final\bin\Debug\final.exe.config
+D:\Y3\SM2\CS\final\final\bin\Debug\final.exe
+D:\Y3\SM2\CS\final\final\bin\Debug\final.pdb
+D:\Y3\SM2\CS\final\final\obj\Debug\final.csproj.AssemblyReference.cache
+D:\Y3\SM2\CS\final\final\obj\Debug\final.Form1.resources
+D:\Y3\SM2\CS\final\final\obj\Debug\final.Properties.Resources.resources
+D:\Y3\SM2\CS\final\final\obj\Debug\final.csproj.GenerateResource.cache
+D:\Y3\SM2\CS\final\final\obj\Debug\final.csproj.CoreCompileInputs.cache
+D:\Y3\SM2\CS\final\final\obj\Debug\final.exe
+D:\Y3\SM2\CS\final\final\obj\Debug\final.pdb
